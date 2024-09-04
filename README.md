@@ -1,5 +1,14 @@
 ## Hi there 👋 I'm Jonas
 
+<h1 align="center">Hi 👋, I'm Jonas</h1>
+<h4 align="center">A Marketing PM @Amazon at day and build personal products at night</h4>
+
+- ⚡ Fun fact **I like every kind of cat**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 <!--
 **Jonas-09/Jonas-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
