@@ -1,9 +1,13 @@
+## Hi there 👋 I'm Jonas
+<!--
 <h1 align="center">Hi 👋, I'm Jonas</h1>
+-->
 <h4 align="center">A Marketing PM @Amazon at day and build personal products at night</h4>
 
 - ⚡ Fun fact **I like every kind of cat**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/jonas-al-taher/" target="_blank">LinkedIn</a>
+</h3>
 <p align="left">
 </p>
 
