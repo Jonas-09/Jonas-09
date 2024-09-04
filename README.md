@@ -4,7 +4,7 @@
 -->
 <h4>A Marketing PM @Amazon at day, building personal products at night</h4>
 
-- ⚡ Fun fact **I like every kind of cat**
+- 🦥 Fun fact **I love sloths and volunteer to support their consveration**
 
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/jonas-al-taher/" target="_blank">LinkedIn</a>
 </h3>
