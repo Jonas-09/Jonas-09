@@ -2,7 +2,7 @@
 <!--
 <h1 align="center">Hi 👋, I'm Jonas</h1>
 -->
-<h4>A Marketing PM @Amazon at day and build personal products at night</h4>
+<h4>A Marketing PM @Amazon at day, building personal products at night</h4>
 
 - ⚡ Fun fact **I like every kind of cat**
 
