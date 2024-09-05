@@ -2,10 +2,11 @@
 <!--
 <h1 align="center">Hi 👋, I'm Jonas</h1>
 -->
-<h4>A Marketing PM @Amazon at day, building personal products at night</h4>
+<h4>A Marketing PM @Amazon at day, building personal products with colleagues and friends at night</h4>
 
-- 🦥 Fun fact **I love sloths and volunteer to support their consveration**
 - 🔭 I’m currently working on **🍋Lemonade Stand: a point-of-sales app for flea market vendors**
+- 🦥 Fun fact **I love sloths and volunteer to support their consveration**
+
 
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/jonas-al-taher/" target="_blank">LinkedIn</a>
 </h3>
