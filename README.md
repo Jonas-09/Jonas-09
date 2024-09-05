@@ -2,7 +2,7 @@
 <!--
 <h1 align="center">Hi 👋, I'm Jonas</h1>
 -->
-<h4>A Marketing PM @Amazon at day, building products with colleagues and friends at night</h4>
+<h4>Marketing PM @Amazon at day, building products with colleagues and friends at night</h4>
 
 - 🔭 I’m currently working on **🍋Lemonade Stand: a point-of-sales app for flea market vendors**
 - 🦥 Fun fact **I love sloths and volunteer to support their consveration**
